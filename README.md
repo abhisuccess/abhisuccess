@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Erudition Online Learning Website](https://github.com/abhisuccess/Erudition_Online_Learning_Website_Frontend)
 
-- 🌱 I’m currently learning **App-Development**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhisuccess](https://github.com/abhisuccess)
 
-- 💬 Ask me about **Artificial Intelligence & Machine Learning**
+- 💬 Currently doing **Contributing in Social Summer of code 2023**
 
 - 📫 How to reach me **neent@techie.com**
 
