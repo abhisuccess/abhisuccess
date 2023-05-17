@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhisuccess](https://github.com/abhisuccess)
 
-- 💬 Currently doing **Contributing in Social Summer of code 2023**
+- 💬 Currently **Contributing in Social Summer of code 2023**
 
 - 📫 How to reach me **neent@techie.com**
 
