@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Erudition Online Learning Website](https://github.com/abhisuccess/Erudition_Online_Learning_Website_Frontend)
+- 🔭 I’m currently working on **ODOP PROJECT, Government of J&K**
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abhisuccess](https://github.com/abhisuccess)
 
-- 💬 Currently **Contributing in Social Summer of code 2023**
+- 💬 Currently **Budding my skills on ML & Blockchain Projects**
 
 - 📫 How to reach me **neent@techie.com**
 
-- ⚡ Fun fact **I am Lazy Coder**
+- ⚡ Fun fact **I am Lazy but Smart Coder**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
