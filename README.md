@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhisuccess](https://github.com/abhisuccess)
+- 👨‍💻 All of my projects are available at [https://github.com/abhisuccess](https://abhisuccess.netlify.app/#projects)
 
 - 💬 Currently **Budding my skills on ML & Blockchain Projects**
 
